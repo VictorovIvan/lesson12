@@ -12,6 +12,4 @@ public class Task02 {
         CallOutOfMemory callOutOfMemoryPermGen = new CallOutOfMemory();
         callOutOfMemoryPermGen.generatePermGenOutOfMemory();
     }
-
-
 }

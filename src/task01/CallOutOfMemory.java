@@ -3,6 +3,9 @@ package task01;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Class CallOutOfMemory
+ */
 class CallOutOfMemory {
     private StringBuilder someString = new StringBuilder("Some string");
     private Integer counter_sum = 0;
